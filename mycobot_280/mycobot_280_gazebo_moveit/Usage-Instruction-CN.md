@@ -4,7 +4,7 @@
 
 本项目选用`Ubuntu22.04`及其对应的`ROS2-Humble`版本，具体的安装流程可参照[大象机器人官网的安装指南](https://docs.elephantrobotics.com/docs/gitbook/12-ApplicationBaseROS/12.2-ROS2/12.2.1-ROS2%E7%9A%84%E5%AE%89%E8%A3%85.html)。按照流程安装完成后可以根据[机械臂控制](https://docs.elephantrobotics.com/docs/gitbook/12-ApplicationBaseROS/12.2-ROS2/12.2.4-rviz%E4%BB%8B%E7%BB%8D%E5%8F%8A%E4%BD%BF%E7%94%A8/myCobot-280.html)的内容验证是否正确完成了安装和配置的工作。
 
-此外我们还需要安装`Gazebo`和`MoveIt`（官网上面提供的MoveIt2安装不够全面，由于我们要适配Gazebo，还需要除MoveIt2本身以外的一些工具）
+此外我们还需要安装`Gazebo`
 
 **安装Gazebo**
 
