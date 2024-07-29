@@ -4,7 +4,7 @@
 
 The project uses Ubuntu 22.04 with the corresponding ROS2-Humble version. You can refer to the installation guide on the [Elephant Robotics official website](https://docs.elephantrobotics.com/docs/mycobot-m5-en/12-ApplicationBaseROS/12.2-ROS2/12.2.1-InstallationOfROS2.html) for the installation process. After installation, you can validate the setup by following the instructions for [robot arm control](https://docs.elephantrobotics.com/docs/mycobot-m5-en/12-ApplicationBaseROS/12.2-ROS2/12.2.4-rivzIntroductionAndUse/myCobot-280.html).
 
-Additionally, you need to install Gazebo and MoveIt for which the instructions are provided below.
+Additionally, you need to install `Gazebo` for which the instructions are provided below.
 
 **Installing Gazebo**
 
