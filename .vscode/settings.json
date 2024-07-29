@@ -23,5 +23,6 @@
         "/home/cj/colcon_ws/install/mycobot_description/lib/python3.8/site-packages",
         "/opt/ros/galactic/lib/python3.8/site-packages"
     ],
-    "editor.fontSize": 20
+    "editor.fontSize": 20,
+    "ros.distro": "humble"
 }
