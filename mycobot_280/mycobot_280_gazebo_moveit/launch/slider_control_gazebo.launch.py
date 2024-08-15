@@ -31,7 +31,7 @@ def generate_launch_description():
         executable='joint_state_publisher_gui',
     )
 
-    # 因为 urdf文件中有一句 $(find mybot) 需要用xacro进行编译一下才行
+    # 需要用xacro进行编译一下
     xacro_file = urdf_model_path
     doc = xacro.parse(open(xacro_file))
     xacro.process_doc(doc)
