@@ -54,6 +54,7 @@ setup(
             'following_marker = mycobot_280.following_marker:main',
             'listen_real_of_topic = mycobot_280.listen_real_of_topic:main',
             'listen_real = mycobot_280.listen_real:main',
+            'reyes_listen_real = mycobot_280.reyes_listen_real:main',
             'opencv_camera = mycobot_280.opencv_camera:main',
             'simple_gui = mycobot_280.simple_gui:main',
             'slider_control = mycobot_280.slider_control:main',
